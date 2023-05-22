@@ -1,9 +1,9 @@
 {
- "domain":"superset",
- "locale_data": {
-   "superset": {
-     "22": ["22"],
-     "": {
+  "domain":"superset",
+  "locale_data": {
+    "superset": {
+      "22": ["22"],
+      "": {
        "domain":"superset",
        "plural_forms":"nplurals=2; plural=(n > 1)",
        "lang":"pt_BR"
@@ -2748,8 +2748,8 @@
        "Dynamically search all filter values": [
           "Pesquisar dinamicamente todos os valores de filtro"
         ],
-       "ECharts": [""],
-       "EMAIL_REPORTS_CTA": [""], 
+       "ECharts": ["ECharts"],
+       "EMAIL_REPORTS_CTA": ["EMAIL_REPORTS_CTA"], 
        "END (EXCLUSIVE)": [
           "FIM (EXCLUSIVO)"
         ],
@@ -5423,7 +5423,7 @@
        "Reduce X ticks": [
           "Reduzir X ticks"
         ],
-       "Refer to the": [""],
+       "Refer to the": ["Consulte o"],
        "Reduces the number of X-axis ticks to be rendered. If true, the x-axis will not overflow and labels may be missing. If false, a minimum width will be applied to columns and the width may overflow into an horizontal scroll.": [
           "Reduz o número de ticks do eixo X a serem processados. Se verdadeiro, o eixo X não transbordará e os rótulos podem estar ausentes. Se falso, será aplicada uma largura mínima às colunas e a largura pode transbordar para um deslocamento horizontal."
         ],
@@ -6230,7 +6230,7 @@
        "Show Y-axis": [
           "Mostrar eixo Y"
         ],
-       "Show all columns": [""],
+       "Show all columns": ["Mostrar todas as colunas"],
        "Show Y-axis on the sparkline. Will display the manually set min/max if set or min/max values in the data otherwise.": [
           "Mostra o eixo Y na Sparkline. Exibirá os valores mínimo/máximo definidos manualmente, se definidos, ou os valores mínimo/máximo nos dados, caso contrário."
         ],
@@ -7365,7 +7365,7 @@
        "Time Column": ["Coluna do tempo"],
        "Time Comparison": ["Comparação de tempo"],
        "Time Format": ["Formato de hora"],
-       "Time Grain": ["Grão de tempo"],
+       "Time Grain": ["Granularidade"],
        "Time Granularity": ["Granularidade de tempo"],
        "Time Lag": ["Atraso de tempo"],
        "Time Range": ["Intervalo de tempo"],
@@ -8045,7 +8045,7 @@
        "Week ending Saturday": [
           "Semana terminando no Sábado"
         ],
-       "What should happen if the table already exists": [""],
+       "What should happen if the table already exists": ["O que deve acontecer se a tabela já existir"],
        "Week starting Monday": [
           "Semana começando na segunda-feira"
         ],
@@ -9071,6 +9071,6 @@
        "zoom area": [
           "área de zoom"
         ]
-    }
-  }
+      }
+   }
 }
